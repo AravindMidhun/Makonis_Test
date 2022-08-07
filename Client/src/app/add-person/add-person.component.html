@@ -1,0 +1,26 @@
+<div class="text-center">
+  <main class="form-signin w-100 m-auto center" >
+  <form #createPerson="ngForm" (ngSubmit)="addPerson(createPerson)">
+    <h2 class="text-center text-dark">Add Person</h2>
+    <hr>
+
+    <div class="form-floating">
+      <input type="text" class="form-control" placeholder="FirstName" name="firstName" ngModel>
+      <label for="floatingInput">First Name</label>
+    </div>
+
+    <div class="form-floating">
+      <input type="text" class="form-control" placeholder="LastName" name="lastName" ngModel>
+      <label for="floatingInput">Last Name</label>
+    </div>
+
+    <div class="form-group text-center">
+      <button class="btn btn-success mr-2" type="submit">Add</button>
+      <button class="btn btn-default " type="button" (click)="cancel()">Clear</button>
+    </div>
+
+  </form>
+  </main>
+</div>
+
+

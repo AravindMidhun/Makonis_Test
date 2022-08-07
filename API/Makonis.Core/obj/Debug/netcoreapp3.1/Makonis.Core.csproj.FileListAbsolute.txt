@@ -1,0 +1,12 @@
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\bin\Debug\netcoreapp3.1\Makonis.Core.deps.json
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\bin\Debug\netcoreapp3.1\Makonis.Core.dll
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\bin\Debug\netcoreapp3.1\Makonis.Core.pdb
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.csprojAssemblyReference.cache
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.AssemblyInfoInputs.cache
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.AssemblyInfo.cs
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.csproj.CoreCompileInputs.cache
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.dll
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.pdb
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\bin\Debug\netcoreapp3.1\Makonis.Contracts.dll
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\bin\Debug\netcoreapp3.1\Makonis.Contracts.pdb
+D:\Technical-Learning\Interviews\MyApplication\API\Makonis.Core\obj\Debug\netcoreapp3.1\Makonis.Core.csproj.CopyComplete
